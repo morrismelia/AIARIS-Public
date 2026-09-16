@@ -32,9 +32,9 @@ Physical security systems fail when they depend on a perfect network path for ev
 
 ## Leadership
 
-**Morris Melia — Founder & Technical Director, AIOS SYSTEMS**
+**Morris Melia — Founder & Technical Director, AIARIS**
 
-Morris is a programmer and product architect whose work spans physical-security systems, embedded and edge devices, industrial automation, IoT, gateways, firmware, and full-system product architecture. He leads AIOS SYSTEMS at the boundary between field engineering and product development, with direct involvement in product definition, system architecture, hardware and firmware decisions, integration strategy, resilience, serviceability, and technical validation.
+Morris is a programmer and product architect whose work spans physical-security systems, embedded and edge devices, industrial automation, IoT, gateways, firmware, and full-system product architecture. He leads AIARIS at the boundary between field engineering and product development, with direct involvement in product definition, system architecture, hardware and firmware decisions, integration strategy, resilience, serviceability, and technical validation.
 
 Read the full public profile: [people/MORRIS_MELIA.md](people/MORRIS_MELIA.md).
 
