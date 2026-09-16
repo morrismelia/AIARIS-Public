@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap host is temporary until production-domain cutover.
+Sitemap: https://aiaris.72.61.189.235.sslip.io/sitemap.xml
