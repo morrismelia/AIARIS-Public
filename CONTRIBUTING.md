@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest in AIOS SYSTEMS’ public engineering notes.
+Thank you for your interest in AIARIS’ public engineering notes.
 
 ## Scope of this repository
 
@@ -18,7 +18,7 @@ It does **not** accept:
 1. Open a GitHub issue describing the clarification you want (preferred for non-trivial edits).
 2. Or open a pull request that changes only markdown under this repository.
 3. Keep tone professional and English-first.
-4. Do not paste content from private AIOS repositories or employer-confidential sources.
+4. Do not paste content from private AIARIS repositories or employer-confidential sources.
 
 ## Review
 

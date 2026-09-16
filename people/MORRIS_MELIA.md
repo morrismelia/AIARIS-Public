@@ -1,21 +1,21 @@
 # Morris Melia
 
-**Founder & Technical Director, AIOS SYSTEMS**  
+**Founder & Technical Director, AIARIS**  
 **Programmer · Product Architect · Physical Security & Embedded Systems**
 
-Morris Melia leads the product and technical direction of **AIOS SYSTEMS**, an independent technology organization developing integrated hardware/software systems for access control, physical security, industrial edge computing, gateways, firmware, and security automation.
+Morris Melia leads the product and technical direction of **AIARIS**, an independent technology organization developing integrated hardware/software systems for access control, physical security, industrial edge computing, gateways, firmware, and security automation.
 
 His work sits at the intersection of **real-world security engineering and product development**: translating operational requirements, field failure modes, service constraints, and long-term maintainability into product architecture. His role is not limited to management—he is directly involved in system architecture, product definition, hardware and electronics decisions, firmware architecture, integration strategy, technical validation, and the engineering trade-offs that determine how a finished product should behave in the field.
 
 ## Professional background
 
-Morris is a **programmer by profession** and holds a **Bachelor’s degree**. His technical background spans software, physical-security systems integration, embedded systems, IoT, industrial automation, and connected-device architecture.
+Morris is a **programmer by profession** and holds a **Bachelor's degree**. His technical background spans software, physical-security systems integration, embedded systems, IoT, industrial automation, and connected-device architecture.
 
-Alongside AIOS SYSTEMS, he is also known professionally as a **Founder and CTO of INNOTECH**, where his work has included physical-security integration, automation, and the deployment of complex technical systems. That field experience directly informs his product philosophy: infrastructure products must remain understandable, maintainable, and operational when networks, power, devices, or upstream services behave imperfectly.
+Alongside AIARIS, he is also known professionally as a **Founder and CTO of INNOTECH**, where his work has included physical-security integration, automation, and the deployment of complex technical systems. That field experience directly informs his product philosophy: infrastructure products must remain understandable, maintainable, and operational when networks, power, devices, or upstream services behave imperfectly.
 
-## AIOS SYSTEMS
+## AIARIS
 
-At AIOS SYSTEMS, Morris focuses on building a coherent product and platform architecture rather than isolated devices. His work centers on how **edge controllers, gateways, firmware, software, communications, diagnostics, and operator workflows** fit together as one system.
+At AIARIS, Morris focuses on building a coherent product and platform architecture rather than isolated devices. His work centers on how **edge controllers, gateways, firmware, software, communications, diagnostics, and operator workflows** fit together as one system.
 
 Key areas of focus include:
 
@@ -32,7 +32,7 @@ Key areas of focus include:
 
 ## Engineering approach
 
-Morris’s product philosophy emphasizes several principles:
+Morris's product philosophy emphasizes several principles:
 
 1. **Local resilience over unnecessary cloud dependency** — time-critical physical decisions should remain possible when upstream connectivity is degraded.
 2. **Complete-system thinking** — hardware, firmware, software, communications, installation, diagnostics, and service are parts of the same product.
@@ -43,12 +43,14 @@ Morris’s product philosophy emphasizes several principles:
 
 Morris leads product definition and architecture while collaborating with specialist electronics, firmware, software, and integration engineers on implementation. The objective is not to claim authorship of every individual PCB trace or software module, but to maintain technical coherence from product concept through implementation and deployment.
 
+Morris is presented here as **product and technical architect** for AIARIS. That role includes setting principles, priorities, and system boundaries. It does **not** claim that he personally authored every PCB, firmware module, or line of product software.
+
 ## Personal background
 
 - **Born:** 10 August 1982
 - **Birthplace:** Gagra
 - **Profession:** Programmer
-- **Education:** Higher education, Bachelor’s degree
+- **Education:** Higher education, Bachelor's degree
 
 ## Public profile scope
 

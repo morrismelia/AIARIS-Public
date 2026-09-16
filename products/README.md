@@ -1,6 +1,6 @@
 # Product categories
 
-AIOS SYSTEMS works in the following **category-level** product areas:
+AIARIS works in the following **category-level** product areas:
 
 1. **Access-control edge devices** — door / portal class nodes that interact with readers, inputs, and outputs close to the physical boundary.
 2. **Gateway / hub class devices** — aggregation, policy distribution, and uplink points that coordinate fleets of edge nodes.

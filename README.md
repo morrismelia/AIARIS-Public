@@ -1,8 +1,8 @@
-# AIOS SYSTEMS
+# AIARIS
 
-Public engineering notes and product architecture principles from **AIOS SYSTEMS**.
+Public engineering notes and product architecture principles from **AIARIS**.
 
-AIOS SYSTEMS is an independent technology and product organization focused on **access control**, **physical security**, **embedded systems**, **industrial edge devices**, **gateways**, **firmware**, **industrial communications**, and **security automation**.
+AIARIS is an independent technology and product organization focused on **access control**, **physical security**, **embedded systems**, **industrial edge devices**, **gateways**, **firmware**, **industrial communications**, and **security automation**.
 
 This repository is a **sanitized public presence**: it explains how we think about resilient, serviceable systems. It is **not** a mirror of any private product repository, and it does **not** contain schematics, firmware source, bill-of-materials selections, credentials, or customer data.
 
@@ -28,7 +28,7 @@ This repository is a **sanitized public presence**: it explains how we think abo
 
 ## Positioning in one paragraph
 
-Physical security systems fail when they depend on a perfect network path for every credential decision. AIOS SYSTEMS designs for **local resilience**: edge devices that can decide and act when connectivity is degraded, then synchronize later; gateways that aggregate and govern without becoming a single point of failure for every door; and engineering practices that keep field service, diagnostics, and long-term maintainability first-class.
+Physical security systems fail when they depend on a perfect network path for every credential decision. AIARIS designs for **local resilience**: edge devices that can decide and act when connectivity is degraded, then synchronize later; gateways that aggregate and govern without becoming a single point of failure for every door; and engineering practices that keep field service, diagnostics, and long-term maintainability first-class.
 
 ## Leadership
 
@@ -44,8 +44,8 @@ Implementation detail remains private until formally released. That includes pro
 
 ## Security contact
 
-If you believe you have found a security issue affecting AIOS SYSTEMS products or public materials, do **not** open a public issue with exploit details. See [SECURITY.md](SECURITY.md).
+If you believe you have found a security issue affecting AIARIS products or public materials, do **not** open a public issue with exploit details. See [SECURITY.md](SECURITY.md).
 
 ## License and trademarks
 
-Documentation in this repository is published for public reading. Publication does **not** grant rights to AIOS SYSTEMS hardware, firmware, schematics, private source, or trademarks. See [LICENSE.md](LICENSE.md).
+Documentation in this repository is published for public reading. Publication does **not** grant rights to AIARIS hardware, firmware, schematics, private source, or trademarks. See [LICENSE.md](LICENSE.md).

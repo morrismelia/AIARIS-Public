@@ -1,6 +1,6 @@
 # Vision
 
-AIOS SYSTEMS builds physical-security technology as **complete systems**: devices at the edge, gateways that coordinate them, and software that keeps operators effective when conditions are imperfect.
+AIARIS builds physical-security technology as **complete systems**: devices at the edge, gateways that coordinate them, and software that keeps operators effective when conditions are imperfect.
 
 ## Why “system” matters
 

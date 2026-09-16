@@ -2,7 +2,7 @@
 
 ## Human-authorized automation
 
-AIOS SYSTEMS explores AI assistance for engineering productivity under a simple rule: **humans authorize consequential actions**. Assistance should accelerate inspection and drafting; it must not silently mutate product truth.
+AIARIS explores AI assistance for engineering productivity under a simple rule: **humans authorize consequential actions**. Assistance should accelerate inspection and drafting; it must not silently mutate product truth.
 
 ## A practical loop: inspect → act → verify
 

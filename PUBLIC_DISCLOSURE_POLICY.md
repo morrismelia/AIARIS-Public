@@ -1,6 +1,6 @@
 # Public disclosure policy
 
-This policy classifies what AIOS SYSTEMS may publish in public channels (including this repository). It exists to protect customers, operators, and unpublished engineering while still allowing genuine technical communication.
+This policy classifies what AIARIS may publish in public channels (including this repository). It exists to protect customers, operators, and unpublished engineering while still allowing genuine technical communication.
 
 ## GREEN — generally safe to publish
 
