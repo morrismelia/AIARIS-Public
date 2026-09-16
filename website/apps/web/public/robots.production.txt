@@ -1,0 +1,8 @@
+# PRODUCTION cutover template — activate only after final-domain DNS/SSL.
+# 1) Copy this file over robots.txt
+# 2) Copy sitemap.production.xml over sitemap.xml after substituting SITE_ORIGIN
+# 3) Flip HTML/Helmet robots meta to index,follow (see index.html + HomePage.jsx)
+User-agent: *
+Allow: /
+
+Sitemap: https://SITE_ORIGIN/sitemap.xml

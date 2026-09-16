@@ -1,5 +1,5 @@
+# PRE-LAUNCH: temporary review surface must stay non-indexable.
+# At production-domain cutover, replace this file with robots.production.txt
+# (or copy its contents) and set SITE_ORIGIN in sitemap.production.xml → sitemap.xml.
 User-agent: *
-Allow: /
-
-# Sitemap host is temporary until production-domain cutover.
-Sitemap: https://aiaris.72.61.189.235.sslip.io/sitemap.xml
+Disallow: /

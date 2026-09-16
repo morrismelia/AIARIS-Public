@@ -28,7 +28,8 @@ export default function HomePage() {
                     name="keywords"
                     content="infrastructure operating system, intelligent infrastructure, physical security platform, access control, embedded systems, firmware, edge computing, on-premise platform, BMS integration, CCTV integration, building intelligence, infrastructure AI"
                 />
-                <meta name="robots" content="index,follow,max-image-preview:large" />
+                {/* PRE-LAUNCH: noindex until final-domain cutover (pair with robots.txt Disallow). */}
+                <meta name="robots" content="noindex,nofollow,noarchive" />
                 <meta name="theme-color" content="#060b18" />
             </Helmet>
             <Seo
