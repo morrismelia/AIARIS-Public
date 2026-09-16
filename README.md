@@ -1,3 +1,5 @@
+> **Repository:** `morrismelia/AIARIS-Public` (formerly `AIOS-SYSTEMS` / briefly `AIARIS`).
+> Product software lives in `morrismelia/AIARIS`.
 # AIARIS
 
 Public engineering notes and product architecture principles from **AIARIS**.
