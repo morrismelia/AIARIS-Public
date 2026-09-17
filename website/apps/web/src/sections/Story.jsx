@@ -40,12 +40,19 @@ export default function Story() {
                             </p>
                         </Reveal>
                         <Reveal delay={0.2}>
-                            <div className="mt-10 flex flex-wrap gap-x-10 gap-y-3 border-t border-white/10 pt-6 font-mono text-[10px] uppercase tracking-[0.2em] text-slate-500">
+                            <div className="mt-10 flex flex-wrap items-center gap-x-10 gap-y-3 border-t border-white/10 pt-6 font-mono text-[10px] uppercase tracking-[0.2em] text-slate-500">
                                 <span>Independent</span>
                                 <span className="text-cyan-400/60">/</span>
                                 <span>Engineering-led</span>
                                 <span className="text-cyan-400/60">/</span>
                                 <span>Customer owned</span>
+                                <span className="text-cyan-400/60">/</span>
+                                <a
+                                    href="#leadership"
+                                    className="text-cyan-300/80 transition-colors hover:text-cyan-300"
+                                >
+                                    Leadership
+                                </a>
                             </div>
                         </Reveal>
                     </div>

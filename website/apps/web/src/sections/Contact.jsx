@@ -18,7 +18,7 @@ export default function Contact() {
                 <div className="max-w-3xl">
                     <Reveal>
                         <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-cyan-300">
-                            09 / Contact
+                            10 / Contact
                         </p>
                         <h2 className="mt-6 font-display text-4xl font-semibold leading-[1.08] tracking-tight text-white sm:text-6xl">
                             Build the Next Operating Layer

@@ -13,6 +13,7 @@ import Intelligence from '@/sections/Intelligence';
 import Domains from '@/sections/Domains';
 import Vision from '@/sections/Vision';
 import Story from '@/sections/Story';
+import Leadership from '@/sections/Leadership';
 import Contact from '@/sections/Contact';
 
 export default function HomePage() {
@@ -51,6 +52,7 @@ export default function HomePage() {
                 <Domains />
                 <Vision />
                 <Story />
+                <Leadership />
                 <Contact />
             </main>
             <Footer />
