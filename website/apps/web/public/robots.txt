@@ -1,5 +1,4 @@
-# PRE-LAUNCH: temporary review surface must stay non-indexable.
-# At production-domain cutover, replace this file with robots.production.txt
-# (or copy its contents) and set SITE_ORIGIN in sitemap.production.xml → sitemap.xml.
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://aiaris.io/sitemap.xml
